@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Services -->
+ <main>
+<section class="container my-4">
+    <h1 class="text-center mb-4 section-heading border-bottom pb-2">FAQ</h1>
+    <div class="accordion" id="accordionExample">
+
+        {%for item in faq%}
+
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingOne">
+          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            {{item.question}}
+          </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            {{item.answer}}
+          </div>
+        </div>
+      </div>
+
+      {% endfor %}
+    </div>
+</section>
+</main>
+<!-- End -->
+{% endblock %}
