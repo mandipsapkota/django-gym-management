@@ -17,12 +17,18 @@
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">${{plan.price}}<small class="text-muted fw-light">/mo</small></h1>
+            <p><b>Member capacity: </b> {{plan.max_member}}</p>
             <ul class="list-unstyled mt-3 mb-4">
                 {% for feature in plan.subscriptionfeature_set.all %}
               <li>{{feature.title}}</li>
               {% endfor %}
             </ul>
-            <a href="checkout.php" class="w-100 btn btn-lg btn-outline-primary">Get started</a>
+            {% if user.is_authenticated %}
+            <a href="{% url 'checkout' plan.id %}" class="w-100 btn btn-lg btn-outline-primary">Checkout Now</a>
+            {% else %}
+            <p><b>Login to checkout</b></p>
+            <a href="{% url 'login' %}" class="w-100 btn btn-lg btn-outline-primary">Login</a>
+            {% endif %}
           </div>
         </div>
       </div>

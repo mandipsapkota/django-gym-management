@@ -1,6 +1,6 @@
 from django.db import models
 from django.utils.html import mark_safe
-
+from django.contrib.auth.models import User
 
 # Create your models here.
 class Service(models.Model):
@@ -79,6 +79,7 @@ class GalleryImage(models.Model):
 class SubPlan(models.Model):
     title = models.CharField(max_length=150)
     price = models.IntegerField()
+    max_member = models.IntegerField(null=True)
     highlight_status = models.BooleanField(default=False , null=True)
     def __str__(self):
         return self.title
@@ -93,3 +94,29 @@ class SubscriptionFeature(models.Model):
     
     def __str__(self):
         return self.title
+
+# Package Discount 
+class PlanDiscount(models.Model):
+    subplan = models.ForeignKey(SubPlan , on_delete=models.CASCADE)
+    total_months = models.IntegerField()
+    total_discount = models.IntegerField()
+    def __str__(self):
+        return str(self.total_months)
+
+# Subscriber 
+class Subscriber(models.Model):
+    user = models.ForeignKey(User , on_delete=models.CASCADE,null=True)
+    mobile = models.CharField(max_length=20)
+    address = models.TextField()
+    img = models.ImageField(upload_to="subscribers/")
+    def __str__(self):
+        return str(self.user)
+    def image_tag(self):
+        return mark_safe('<img src = "%s" width="80"/>'%(self.img.url))    
+    
+# Subscription 
+class Subscription(models.Model):
+    user = models.ForeignKey(User , on_delete=models.CASCADE,null=True)
+    plan = models.ForeignKey(SubPlan , on_delete=models.CASCADE,null=True)
+    price = models.CharField(max_length=50)
+    

@@ -1,0 +1,1326 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "mark_safe",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_template",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "stripe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stripe",
+        "description": "stripe",
+        "detail": "stripe",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.asgi",
+        "description": "FitFusionX.FitFusionX.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "FitFusionX.FitFusionX.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-j6j9^++x&f+x*-p-(4di8cn=!7on5d9r48xp%dcn(j+*o9im=n\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-j6j9^++x&f+x*-p-(4di8cn=!7on5d9r48xp%dcn(j+*o9im=n\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    # \"jet\",\n    \"jazzmin\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    # \"jet\",\n    \"jazzmin\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    # \"jet\",\n    \"jazzmin\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    # \"jet\",\n    \"jazzmin\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"main\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"FitFusionX.urls\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "ROOT_URLCONF = \"FitFusionX.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"FitFusionX.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": \"app\",\n        \"USER\":\"app_user\",\n        \"PASSWORD\":\"app_password\",\n        \"HOST\":\"localhost\",",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": \"app\",\n        \"USER\":\"app_user\",\n        \"PASSWORD\":\"app_password\",\n        \"HOST\":\"localhost\",\n        \"PORT\":5432\n    }\n}",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nLOGIN_REDIRECT_URL = 'home'",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email \nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email \nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR , 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email \nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email \nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email \nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = 'login'\n# Email \nEMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.settings",
+        "description": "FitFusionX.FitFusionX.settings",
+        "peekOfCode": "EMAIL_BACKEND = \"django.core.mail.backends.console.EmailBackend\"",
+        "detail": "FitFusionX.FitFusionX.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.urls",
+        "description": "FitFusionX.FitFusionX.urls",
+        "peekOfCode": "urlpatterns = [\n        # path('jet/', include('jet.urls', 'jet')),  # Django JET URLS\n    path(\"admin/\", admin.site.urls),\n    path('' , include('main.urls')),\n    path('accounts/' , include('django.contrib.auth.urls'))\n]",
+        "detail": "FitFusionX.FitFusionX.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "FitFusionX.FitFusionX.wsgi",
+        "description": "FitFusionX.FitFusionX.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "FitFusionX.FitFusionX.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0001_initial",
+        "description": "FitFusionX.main.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"Service\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "FitFusionX.main.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0002_banners_alter_service_title",
+        "description": "FitFusionX.main.migrations.0002_banners_alter_service_title",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Banners\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0002_banners_alter_service_title",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0003_rename_banners_banner",
+        "description": "FitFusionX.main.migrations.0003_rename_banners_banner",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0002_banners_alter_service_title\"),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name=\"Banners\",\n            new_name=\"Banner\",\n        ),\n    ]",
+        "detail": "FitFusionX.main.migrations.0003_rename_banners_banner",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0004_service_img_service_img_alt",
+        "description": "FitFusionX.main.migrations.0004_service_img_service_img_alt",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0003_rename_banners_banner\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"service\",\n            name=\"img\",\n            field=models.ImageField(null=True, upload_to=\"services/\"),\n        ),",
+        "detail": "FitFusionX.main.migrations.0004_service_img_service_img_alt",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0005_pages",
+        "description": "FitFusionX.main.migrations.0005_pages",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0004_service_img_service_img_alt\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Pages\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0005_pages",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0006_rename_pages_page",
+        "description": "FitFusionX.main.migrations.0006_rename_pages_page",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0005_pages\"),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name=\"Pages\",\n            new_name=\"Page\",\n        ),\n    ]",
+        "detail": "FitFusionX.main.migrations.0006_rename_pages_page",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0007_faq",
+        "description": "FitFusionX.main.migrations.0007_faq",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0006_rename_pages_page\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"FAQ\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0007_faq",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0008_enquiry",
+        "description": "FitFusionX.main.migrations.0008_enquiry",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0007_faq\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Enquiry\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0008_enquiry",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0009_alter_enquiry_email_alter_enquiry_full_name",
+        "description": "FitFusionX.main.migrations.0009_alter_enquiry_email_alter_enquiry_full_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0008_enquiry\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"enquiry\",\n            name=\"email\",\n            field=models.CharField(max_length=20),\n        ),",
+        "detail": "FitFusionX.main.migrations.0009_alter_enquiry_email_alter_enquiry_full_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0010_alter_enquiry_email_alter_enquiry_full_name",
+        "description": "FitFusionX.main.migrations.0010_alter_enquiry_email_alter_enquiry_full_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0009_alter_enquiry_email_alter_enquiry_full_name\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"enquiry\",\n            name=\"email\",\n            field=models.CharField(max_length=50),\n        ),",
+        "detail": "FitFusionX.main.migrations.0010_alter_enquiry_email_alter_enquiry_full_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0011_gallery",
+        "description": "FitFusionX.main.migrations.0011_gallery",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0010_alter_enquiry_email_alter_enquiry_full_name\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Gallery\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0011_gallery",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0012_galleryimage_rename_alt_text_gallery_title_and_more",
+        "description": "FitFusionX.main.migrations.0012_galleryimage_rename_alt_text_gallery_title_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0011_gallery\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"GalleryImage\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0012_galleryimage_rename_alt_text_gallery_title_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0013_galleryimage_gallery",
+        "description": "FitFusionX.main.migrations.0013_galleryimage_gallery",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0012_galleryimage_rename_alt_text_gallery_title_and_more\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"galleryimage\",\n            name=\"gallery\",\n            field=models.ForeignKey(\n                null=True,",
+        "detail": "FitFusionX.main.migrations.0013_galleryimage_gallery",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0014_subplan_subscriptionfeature",
+        "description": "FitFusionX.main.migrations.0014_subplan_subscriptionfeature",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0013_galleryimage_gallery\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"SubPlan\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0014_subplan_subscriptionfeature",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0015_subplan_highlight_status",
+        "description": "FitFusionX.main.migrations.0015_subplan_highlight_status",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0014_subplan_subscriptionfeature\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"subplan\",\n            name=\"highlight_status\",\n            field=models.BooleanField(default=False, null=True),\n        ),",
+        "detail": "FitFusionX.main.migrations.0015_subplan_highlight_status",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0016_remove_subscriptionfeature_subplan_and_more",
+        "description": "FitFusionX.main.migrations.0016_remove_subscriptionfeature_subplan_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0015_subplan_highlight_status\"),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name=\"subscriptionfeature\",\n            name=\"subplan\",\n        ),\n        migrations.AddField(",
+        "detail": "FitFusionX.main.migrations.0016_remove_subscriptionfeature_subplan_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0017_subplan_max_member",
+        "description": "FitFusionX.main.migrations.0017_subplan_max_member",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0016_remove_subscriptionfeature_subplan_and_more\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"subplan\",\n            name=\"max_member\",\n            field=models.IntegerField(null=True),\n        ),",
+        "detail": "FitFusionX.main.migrations.0017_subplan_max_member",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0018_plandiscount",
+        "description": "FitFusionX.main.migrations.0018_plandiscount",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0017_subplan_max_member\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"PlanDiscount\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "FitFusionX.main.migrations.0018_plandiscount",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0019_subscriber",
+        "description": "FitFusionX.main.migrations.0019_subscriber",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0018_plandiscount\"),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Subscriber\",\n            fields=[\n                (",
+        "detail": "FitFusionX.main.migrations.0019_subscriber",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "FitFusionX.main.migrations.0020_remove_subscriber_plan_remove_subscriber_price_and_more",
+        "description": "FitFusionX.main.migrations.0020_remove_subscriber_plan_remove_subscriber_price_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"main\", \"0019_subscriber\"),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name=\"subscriber\",\n            name=\"plan\",\n        ),",
+        "detail": "FitFusionX.main.migrations.0020_remove_subscriber_plan_remove_subscriber_price_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class ServiceAdmin(admin.ModelAdmin):\n    list_display=('title',\"image_tag\")\nadmin.site.register(models.Service , ServiceAdmin)\nclass BannerAdmin(admin.ModelAdmin):\n    list_display=('alt_text' , 'image_tag')\nadmin.site.register(models.Banner,BannerAdmin)\nclass PageAdmin(admin.ModelAdmin):\n    list_display=('title' , )\nadmin.site.register(models.Page,PageAdmin)\nclass FaqAdmin(admin.ModelAdmin):",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BannerAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class BannerAdmin(admin.ModelAdmin):\n    list_display=('alt_text' , 'image_tag')\nadmin.site.register(models.Banner,BannerAdmin)\nclass PageAdmin(admin.ModelAdmin):\n    list_display=('title' , )\nadmin.site.register(models.Page,PageAdmin)\nclass FaqAdmin(admin.ModelAdmin):\n    list_display=('question' , )\nadmin.site.register(models.FAQ,FaqAdmin)\nclass EnquiryAdmin(admin.ModelAdmin):",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PageAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class PageAdmin(admin.ModelAdmin):\n    list_display=('title' , )\nadmin.site.register(models.Page,PageAdmin)\nclass FaqAdmin(admin.ModelAdmin):\n    list_display=('question' , )\nadmin.site.register(models.FAQ,FaqAdmin)\nclass EnquiryAdmin(admin.ModelAdmin):\n    list_display=('full_name' , )\nadmin.site.register(models.Enquiry,EnquiryAdmin)\n# Gallery Admin",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "FaqAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class FaqAdmin(admin.ModelAdmin):\n    list_display=('question' , )\nadmin.site.register(models.FAQ,FaqAdmin)\nclass EnquiryAdmin(admin.ModelAdmin):\n    list_display=('full_name' , )\nadmin.site.register(models.Enquiry,EnquiryAdmin)\n# Gallery Admin\nclass GalleryAdmin(admin.ModelAdmin):\n    list_display=('title' , \"image_tag\")\nadmin.site.register(models.Gallery,GalleryAdmin)",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EnquiryAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class EnquiryAdmin(admin.ModelAdmin):\n    list_display=('full_name' , )\nadmin.site.register(models.Enquiry,EnquiryAdmin)\n# Gallery Admin\nclass GalleryAdmin(admin.ModelAdmin):\n    list_display=('title' , \"image_tag\")\nadmin.site.register(models.Gallery,GalleryAdmin)\n# Gallery Image \nclass GalleryImageAdmin(admin.ModelAdmin):\n    list_display=('alt_text' ,'image_tag' )",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GalleryAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class GalleryAdmin(admin.ModelAdmin):\n    list_display=('title' , \"image_tag\")\nadmin.site.register(models.Gallery,GalleryAdmin)\n# Gallery Image \nclass GalleryImageAdmin(admin.ModelAdmin):\n    list_display=('alt_text' ,'image_tag' )\nadmin.site.register(models.GalleryImage,GalleryImageAdmin)\n# SubscriptionPlan \nclass SubPlanAdmin(admin.ModelAdmin):\n    # list_editable = ('highlight_status','max_member')",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GalleryImageAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class GalleryImageAdmin(admin.ModelAdmin):\n    list_display=('alt_text' ,'image_tag' )\nadmin.site.register(models.GalleryImage,GalleryImageAdmin)\n# SubscriptionPlan \nclass SubPlanAdmin(admin.ModelAdmin):\n    # list_editable = ('highlight_status','max_member')\n    list_display=('title' ,'price' ,'highlight_status','max_member')\nadmin.site.register(models.SubPlan,SubPlanAdmin)\n# Subscription Feature \nclass SubPlanFeatureAdmin(admin.ModelAdmin):",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubPlanAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class SubPlanAdmin(admin.ModelAdmin):\n    # list_editable = ('highlight_status','max_member')\n    list_display=('title' ,'price' ,'highlight_status','max_member')\nadmin.site.register(models.SubPlan,SubPlanAdmin)\n# Subscription Feature \nclass SubPlanFeatureAdmin(admin.ModelAdmin):\n    list_display=('title' ,'subplans')\n    def subplans(self,obj):\n        return \" | \".join([sub.title for sub in obj.subplan.all()])\nadmin.site.register(models.SubscriptionFeature,SubPlanFeatureAdmin)",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubPlanFeatureAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class SubPlanFeatureAdmin(admin.ModelAdmin):\n    list_display=('title' ,'subplans')\n    def subplans(self,obj):\n        return \" | \".join([sub.title for sub in obj.subplan.all()])\nadmin.site.register(models.SubscriptionFeature,SubPlanFeatureAdmin)\n# Discount Feature \nclass PlanDiscountAdmin(admin.ModelAdmin):\n    list_display=('subplan','total_months' ,'total_discount')\nadmin.site.register(models.PlanDiscount,PlanDiscountAdmin)\n# Subscriber Feature ",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PlanDiscountAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class PlanDiscountAdmin(admin.ModelAdmin):\n    list_display=('subplan','total_months' ,'total_discount')\nadmin.site.register(models.PlanDiscount,PlanDiscountAdmin)\n# Subscriber Feature \nclass SubscriberAdmin(admin.ModelAdmin):\n    list_display=('user','mobile','image_tag')\nadmin.site.register(models.Subscriber,SubscriberAdmin)\n# Subscription Feature\nclass SubscriptionAdmin(admin.ModelAdmin):\n    list_display=('user','plan','price')",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriberAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class SubscriberAdmin(admin.ModelAdmin):\n    list_display=('user','mobile','image_tag')\nadmin.site.register(models.Subscriber,SubscriberAdmin)\n# Subscription Feature\nclass SubscriptionAdmin(admin.ModelAdmin):\n    list_display=('user','plan','price')\nadmin.site.register(models.Subscription,SubscriptionAdmin)",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionAdmin",
+        "kind": 6,
+        "importPath": "FitFusionX.main.admin",
+        "description": "FitFusionX.main.admin",
+        "peekOfCode": "class SubscriptionAdmin(admin.ModelAdmin):\n    list_display=('user','plan','price')\nadmin.site.register(models.Subscription,SubscriptionAdmin)",
+        "detail": "FitFusionX.main.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MainConfig",
+        "kind": 6,
+        "importPath": "FitFusionX.main.apps",
+        "description": "FitFusionX.main.apps",
+        "peekOfCode": "class MainConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"main\"",
+        "detail": "FitFusionX.main.apps",
+        "documentation": {}
+    },
+    {
+        "label": "EnquiryForm",
+        "kind": 6,
+        "importPath": "FitFusionX.main.forms",
+        "description": "FitFusionX.main.forms",
+        "peekOfCode": "class EnquiryForm(forms.ModelForm):\n    class Meta:\n        model = models.Enquiry\n        fields = ('full_name' , 'email' , 'detail')\nclass Signup(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ('first_name' , 'last_name' , 'email' , 'username' , 'password1' , 'password2')",
+        "detail": "FitFusionX.main.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Signup",
+        "kind": 6,
+        "importPath": "FitFusionX.main.forms",
+        "description": "FitFusionX.main.forms",
+        "peekOfCode": "class Signup(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ('first_name' , 'last_name' , 'email' , 'username' , 'password1' , 'password2')",
+        "detail": "FitFusionX.main.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Service(models.Model):\n    title = models.CharField(max_length=20)\n    detail = models.TextField()\n    img = models.ImageField(upload_to=\"services/\" , null = True)\n    img_alt= models.CharField(max_length=50 , null = True)\n    def __str__(self):\n        return self.title\n    def image_tag(self):\n        return mark_safe('<img src = \"%s\" width=\"80\"/>'%(self.img.url))\n# Banners ",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "Banner",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Banner(models.Model):\n    img = models.ImageField(upload_to = \"banners/\")\n    alt_text = models.CharField(max_length=150)\n    def __str__(self):\n        return self.alt_text\n    def image_tag(self):\n        return mark_safe('<img src = \"%s\" width=\"80\"/>'%(self.img.url))\nclass Page(models.Model):\n    title = models.CharField(max_length=200)\n    detail = models.TextField()",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "Page",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Page(models.Model):\n    title = models.CharField(max_length=200)\n    detail = models.TextField()\n    def __str__(self):\n        return self.title\nclass FAQ(models.Model):\n    question = models.TextField()\n    answer = models.TextField()\n    def __str__(self):\n        return self.question",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "FAQ",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class FAQ(models.Model):\n    question = models.TextField()\n    answer = models.TextField()\n    def __str__(self):\n        return self.question\n# Enquiry \nclass Enquiry(models.Model):\n    full_name = models.CharField(max_length=50)\n    email = models.CharField(max_length=50)\n    detail = models.TextField()",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "Enquiry",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Enquiry(models.Model):\n    full_name = models.CharField(max_length=50)\n    email = models.CharField(max_length=50)\n    detail = models.TextField()\n    send_time = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.full_name\n# Gallery model \nclass Gallery(models.Model):\n    title= models.CharField(max_length=150)",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "Gallery",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Gallery(models.Model):\n    title= models.CharField(max_length=150)\n    detail = models.TextField()\n    img = models.ImageField(upload_to=\"gallery/\" , null = True)\n    def __str__(self):\n        return self.title\n    def image_tag(self):\n        return mark_safe('<img src = \"%s\" width=\"80\"/>'%(self.img.url))\n# Gallery Images \nclass GalleryImage(models.Model):",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "GalleryImage",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class GalleryImage(models.Model):\n    gallery = models.ForeignKey(Gallery , on_delete=models.CASCADE , null=True)\n    alt_text= models.CharField(max_length=150)\n    img = models.ImageField(upload_to=\"gallery_images/\" , null = True)\n    def __str__(self):\n        return self.alt_text\n    def image_tag(self):\n        return mark_safe('<img src = \"%s\" width=\"80\"/>'%(self.img.url))\n# Subscription plan \nclass SubPlan(models.Model):",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubPlan",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class SubPlan(models.Model):\n    title = models.CharField(max_length=150)\n    price = models.IntegerField()\n    max_member = models.IntegerField(null=True)\n    highlight_status = models.BooleanField(default=False , null=True)\n    def __str__(self):\n        return self.title\n# Plan Featurs \nclass SubscriptionFeature(models.Model):\n    # subplan = models.ForeignKey(SubPlan , on_delete=models.CASCADE)",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubscriptionFeature",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class SubscriptionFeature(models.Model):\n    # subplan = models.ForeignKey(SubPlan , on_delete=models.CASCADE)\n    subplan = models.ManyToManyField(SubPlan)\n    title = models.CharField(max_length=150)\n    def subplan_title(self):\n        return self.subplan.title\n    def __str__(self):\n        return self.title\n# Package Discount \nclass PlanDiscount(models.Model):",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "PlanDiscount",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class PlanDiscount(models.Model):\n    subplan = models.ForeignKey(SubPlan , on_delete=models.CASCADE)\n    total_months = models.IntegerField()\n    total_discount = models.IntegerField()\n    def __str__(self):\n        return str(self.total_months)\n# Subscriber \nclass Subscriber(models.Model):\n    user = models.ForeignKey(User , on_delete=models.CASCADE,null=True)\n    mobile = models.CharField(max_length=20)",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscriber",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Subscriber(models.Model):\n    user = models.ForeignKey(User , on_delete=models.CASCADE,null=True)\n    mobile = models.CharField(max_length=20)\n    address = models.TextField()\n    img = models.ImageField(upload_to=\"subscribers/\")\n    def __str__(self):\n        return str(self.user)\n    def image_tag(self):\n        return mark_safe('<img src = \"%s\" width=\"80\"/>'%(self.img.url))    \n# Subscription ",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "kind": 6,
+        "importPath": "FitFusionX.main.models",
+        "description": "FitFusionX.main.models",
+        "peekOfCode": "class Subscription(models.Model):\n    user = models.ForeignKey(User , on_delete=models.CASCADE,null=True)\n    plan = models.ForeignKey(SubPlan , on_delete=models.CASCADE,null=True)\n    price = models.CharField(max_length=50)",
+        "detail": "FitFusionX.main.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "FitFusionX.main.urls",
+        "description": "FitFusionX.main.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\" , views.home , name=\"home\"),\n    path(\"pagedetail/<int:id>\",views.page_detail,name='pagedetail'),\n    path(\"faq\",views.faq_list,name='faq'),\n    path(\"enquiry\" , views.enquiry, name='enquiry'),\n    path(\"gallery\" , views.gallery , name=\"gallery\"),\n    path(\"gallerydetail/<int:id>\" , views.gallery_photo , name=\"gallery_photo\"),\n    path(\"pricing\",views.pricing,name=\"pricing\"),\n    path(\"accounts/signup\" , views.signup, name='signup'),\n    path(\"checkout/<int:plan_id>\",views.checkout,name=\"checkout\"),",
+        "detail": "FitFusionX.main.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def home(request):\n    banners = models.Banner.objects.all()\n    services = models.Service.objects.all()[:3]\n    gimages = models.GalleryImage.objects.all().order_by(\"-id\")[:9]\n    return render(request , 'home.html' , {\"banners\":banners , \"services\":services , \"gimages\":gimages})\ndef page_detail(request,id):\n    page = models.Page.objects.get(id = id)\n    return render(request , 'page.html' , {'page':page })\ndef faq_list(request):\n    faq = models.FAQ.objects.all()",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "page_detail",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def page_detail(request,id):\n    page = models.Page.objects.get(id = id)\n    return render(request , 'page.html' , {'page':page })\ndef faq_list(request):\n    faq = models.FAQ.objects.all()\n    return render(request , 'faq.html' , {'faq':faq })\ndef enquiry(request):\n    msg=''\n    if request.method == 'POST' :\n        form = forms.EnquiryForm(request.POST)",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "faq_list",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def faq_list(request):\n    faq = models.FAQ.objects.all()\n    return render(request , 'faq.html' , {'faq':faq })\ndef enquiry(request):\n    msg=''\n    if request.method == 'POST' :\n        form = forms.EnquiryForm(request.POST)\n        if form.is_valid():\n            form.save()\n            msg='Thank you for contacting us . We will get in touch with you soon . Meanwhile do some pushups.'",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "enquiry",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def enquiry(request):\n    msg=''\n    if request.method == 'POST' :\n        form = forms.EnquiryForm(request.POST)\n        if form.is_valid():\n            form.save()\n            msg='Thank you for contacting us . We will get in touch with you soon . Meanwhile do some pushups.'\n    # faq = models.FAQ.objects.all()\n    form = forms.EnquiryForm\n    return render(request , 'enquiry.html',{'form':form , 'msg':msg})",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "gallery",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def gallery(request):\n    gallery = models.Gallery.objects.all().order_by('-id')\n    return render(request , 'gallery.html' , {'galleries':gallery})\n# Show gallery photo \ndef gallery_photo(request,id):\n    gallery = models.Gallery.objects.get(id = id)\n    gallery_imgs = models.GalleryImage.objects.filter(gallery = gallery).order_by('-id')\n    return render(request , 'gallery_img.html' , {'gallery_images':gallery_imgs , 'gallery':gallery})\n# Show pricing plans\ndef pricing(request):",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "gallery_photo",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def gallery_photo(request,id):\n    gallery = models.Gallery.objects.get(id = id)\n    gallery_imgs = models.GalleryImage.objects.filter(gallery = gallery).order_by('-id')\n    return render(request , 'gallery_img.html' , {'gallery_images':gallery_imgs , 'gallery':gallery})\n# Show pricing plans\ndef pricing(request):\n    plans = models.SubPlan.objects.all().order_by('price')\n    distinct_features = models.SubscriptionFeature.objects.all()\n    return render(request , 'pricing.html' , {\"plans\":plans , \"distinct_features\":distinct_features})\n# Signup",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "pricing",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def pricing(request):\n    plans = models.SubPlan.objects.all().order_by('price')\n    distinct_features = models.SubscriptionFeature.objects.all()\n    return render(request , 'pricing.html' , {\"plans\":plans , \"distinct_features\":distinct_features})\n# Signup\ndef signup(request):\n    msg = \"\"\n    if request.method == 'POST':\n        form = forms.Signup(request.POST)\n        if form.is_valid:",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "signup",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def signup(request):\n    msg = \"\"\n    if request.method == 'POST':\n        form = forms.Signup(request.POST)\n        if form.is_valid:\n            form.save()\n            msg = \"Thank you for registering.\"\n    form = forms.Signup\n    return render(request , 'registration/signup.html' , {\"form\":form , \"msg\":msg})\n# Checkout page ",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "checkout",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def checkout(request , plan_id):\n    planDetail = models.SubPlan.objects.get(pk =plan_id)\n    return render(request, 'checkout.html' , {'plan':planDetail})\n# Stripe payment \nstripe.api_key = 'sk_test_4eC39HqLyjWDarjtT1zdp7dc'\ndef checkout_session(request,plan_id):\n    plan = models.SubPlan.objects.get(pk=plan_id)\n    session = stripe.checkout.Session.create(\n    line_items=[{\n      'price_data': {",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "checkout_session",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def checkout_session(request,plan_id):\n    plan = models.SubPlan.objects.get(pk=plan_id)\n    session = stripe.checkout.Session.create(\n    line_items=[{\n      'price_data': {\n        'currency': 'npr',\n        'product_data': {\n          'name': plan.title,\n        },\n        'unit_amount': plan.price*132,",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "pay_success",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def pay_success(request):\n    session = stripe.checkout.Session.retrieve(request.GET['session_id'])\n    plan_id = session.client_reference_id\n    plan = models.SubPlan.objects.get(pk=plan_id)\n    user = request.user \n    models.Subscription.objects.create(\n        plan=plan,\n        user=user,\n        price = plan.price\n    )",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "pay_cancel",
+        "kind": 2,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "def pay_cancel(request):\n    return render(request , 'cancel.html')",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "stripe.api_key",
+        "kind": 5,
+        "importPath": "FitFusionX.main.views",
+        "description": "FitFusionX.main.views",
+        "peekOfCode": "stripe.api_key = 'sk_test_4eC39HqLyjWDarjtT1zdp7dc'\ndef checkout_session(request,plan_id):\n    plan = models.SubPlan.objects.get(pk=plan_id)\n    session = stripe.checkout.Session.create(\n    line_items=[{\n      'price_data': {\n        'currency': 'npr',\n        'product_data': {\n          'name': plan.title,\n        },",
+        "detail": "FitFusionX.main.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "FitFusionX.manage",
+        "description": "FitFusionX.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"FitFusionX.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "FitFusionX.manage",
+        "documentation": {}
+    }
+]

@@ -40,8 +40,8 @@ admin.site.register(models.GalleryImage,GalleryImageAdmin)
 
 # SubscriptionPlan 
 class SubPlanAdmin(admin.ModelAdmin):
-    # list_editable = ('highlight_status',)
-    list_display=('title' ,'price' ,'highlight_status')
+    # list_editable = ('highlight_status','max_member')
+    list_display=('title' ,'price' ,'highlight_status','max_member')
 
 admin.site.register(models.SubPlan,SubPlanAdmin)
 
@@ -52,3 +52,21 @@ class SubPlanFeatureAdmin(admin.ModelAdmin):
         return " | ".join([sub.title for sub in obj.subplan.all()])
 
 admin.site.register(models.SubscriptionFeature,SubPlanFeatureAdmin)
+
+# Discount Feature 
+class PlanDiscountAdmin(admin.ModelAdmin):
+    list_display=('subplan','total_months' ,'total_discount')
+
+admin.site.register(models.PlanDiscount,PlanDiscountAdmin)
+
+# Subscriber Feature 
+class SubscriberAdmin(admin.ModelAdmin):
+    list_display=('user','mobile','image_tag')
+
+admin.site.register(models.Subscriber,SubscriberAdmin)
+
+# Subscription Feature
+class SubscriptionAdmin(admin.ModelAdmin):
+    list_display=('user','plan','price')
+
+admin.site.register(models.Subscription,SubscriptionAdmin)
